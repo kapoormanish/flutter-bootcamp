@@ -1,6 +1,6 @@
-# first_app
+# Flutter Bootcamp
 
-A new Flutter project.
+A project to learn Flutter
 
 ## Getting Started
 
